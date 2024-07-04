@@ -1,0 +1,11 @@
+*.out
+*.exe
+/bin
+
+/out
+/build
+
+# clion
+.idea
+/cmake-build-debug
+/cmake-build-release
